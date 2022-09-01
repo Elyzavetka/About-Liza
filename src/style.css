@@ -98,4 +98,8 @@ p {
   p {
     text-align: center;
   }
+  .progect-link {
+    display: block;
+    text-align: center;
+  }
 }
